@@ -26,8 +26,8 @@ I'm **Vu Nguyen**, a Mathematics major with a passion for diving into the world 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-vu-nguyen)  
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white)](https://datascienceportfol.io/vu-nguyen)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vunguyennnn)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white)](https://datascienceportfol.io/)  
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoangvu1997@gmail.com)  
 
 ---
