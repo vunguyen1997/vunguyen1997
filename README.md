@@ -1,5 +1,5 @@
 # Hi there! 👋  
-![Welcome Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+Profile!)  
+![Welcome Banner](1693782076142.jpg)  
 
 I'm **Vu Nguyen**, a Mathematics major with a passion for diving into the world of **data science**. My goal is to combine my love for math with coding and data to uncover insights and solve complex problems.  
 
@@ -41,7 +41,6 @@ I'm **Vu Nguyen**, a Mathematics major with a passion for diving into the world 
 🎹 I’ve been learning piano for 20 years.  
 🎲 I enjoy playing Blackjack, Poker, and other casino card games.  
 
----
 
-![Footer Banner](https://via.placeholder.com/1000x100.png?text=Thank+You+for+Visiting+My+Profile!)  
+ 
 
