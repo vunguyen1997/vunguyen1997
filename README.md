@@ -2,13 +2,15 @@
 
 ![Banner](1693782076142.jpg)
 
-Hello, I'm Vu Nguyen!  
-I'm a Mathematics Major with a passion for becoming a Data Scientist. I love solving problems, analyzing data, and working on projects that have a real-world impact 🚀
+Hello, I'm Vu Nguyen!
+I'm a Mathematics graduate with a strong interest in Data Science, Analytics, and Machine Learning. I enjoy solving problems with data, uncovering patterns, and building data-driven solutions that make real-world impact. 🚀
 
-- Learning to query and analyze data using SQL
-- Exploring ways to generate reports and perform basic data analysis
-- Gaining hands-on experience with creating dashboards in Tableau and Power BI
-- Developing foundational skills in data analysis and reporting using Google Sheets and Excel
+- Querying and analyzing structured data using SQL
+- Building machine learning models in Python using scikit-learn
+- Creating interactive dashboards with Tableau and Power BI
+- Cleaning, transforming, and validating datasets for accuracy
+- Performing exploratory data analysis (EDA) and visual storytelling
+- Developing data pipelines and working with APIs
 
 
 
@@ -19,10 +21,11 @@ Welcome to my portfolio! Here, I showcase my [projects](https://www.datasciencep
 
 
 ## 🛠 Skills
-- **Programming Languages**: Python, R, SQL  
-- **Data Analysis**: Pandas, NumPy, Matplotlib   
-- **Databases**: MySQL  
-- **Tools**: Tableau, Excel, Jupyter Notebook  
+- **Programming Languages**: Python, SQL  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, Excel, Google Sheets, Power BI, Tableau   
+- **Databases**: MySQL, PostgreSQL, SQLite, pgAdmin, Window Functions
+- **Machine Learning**: Scikit-learn, Logistic Regression, Random Forest, Decision Tree, K-Means Clustering, PCA, Model Evaluation 
+- **Tools**: Github, Google Colab, Jupyter Notebook, VS Code  
 
 
 
