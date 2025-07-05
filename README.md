@@ -14,7 +14,7 @@ I'm a Mathematics Major with a passion for becoming a Data Scientist. I love sol
 
 
 ## 📂 Projects
-Welcome to my portfolio! Here, I showcase my [projects](https://github.com/vunguyen1997)
+Welcome to my portfolio! Here, I showcase my [projects](https://www.datascienceportfol.io/hoangvu1997)
 
 
 
